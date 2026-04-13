@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,geely.com
+DOMAIN-SUFFIX,geely-test.com
+DOMAIN-SUFFIX,zeekrlife.com
+DOMAIN-SUFFIX,zeekrlife-test.com
+IP-CIDR,10.0.0.0/8
