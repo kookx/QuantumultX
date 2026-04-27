@@ -2,6 +2,7 @@ DOMAIN-SUFFIX,geely.com
 DOMAIN-SUFFIX,geely-test.com
 DOMAIN-SUFFIX,zeekrlife.com
 DOMAIN-SUFFIX,zeekrlife-test.com
+DOMAIN-SUFFIX,zeekr.eu
 DOMAIN-SUFFIX,gee-cloud.com
 DOMAIN-SUFFIX,geely.svc
 IP-CIDR,10.0.0.0/8
